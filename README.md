@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Koushik — DevSecOps Engineer
 
-<!--
-**Koushiksantra12/Koushiksantra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-grade cloud infrastructure, CI/CD pipelines, and secure Kubernetes platforms.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Cloud: AWS, Azure  
+- Containers: Docker, Kubernetes, Helm  
+- CI/CD: Jenkins, GitHub Actions, ArgoCD (GitOps)  
+- IaC: Terraform  
+- DevSecOps: SonarQube, Trivy, Secrets Management  
+- Monitoring: Prometheus, Grafana  
+- OS & Scripting: Linux, Bash  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I do
+I design and implement **end-to-end DevSecOps pipelines** for cloud-native applications including:
+- Infrastructure automation  
+- Secure CI/CD  
+- Kubernetes deployments  
+- GitOps workflows  
+- Monitoring & observability  
+
+## 📂 Featured Projects
+- End-to-End DevSecOps on AWS EKS  
+- Azure AKS GitOps CI/CD  
+- Hybrid Jenkins + Ansible AWS Pipeline  
+
+*(Links will be added as projects are built)*
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/koushik-santra-833667361/ 
+- Email: https://koushiksantra9612@gmail.com
