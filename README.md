@@ -136,3 +136,11 @@ https://www.linkedin.com/in/koushik-santra-devsecops
 ### Email
 
 [koushiksantra9612@gmail.com](mailto:koushiksantra9612@gmail.com)
+
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
