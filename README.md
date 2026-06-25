@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
+
 # 👋 Hi, I'm Koushik Santra
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
